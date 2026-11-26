@@ -1,6 +1,5 @@
-# BÀI LÀM PHA 2 – HACKATHON 02
+# BÀI LÀM PHA 2 
 
-- **Mã đề:** 05
 - **Họ tên:**
 - **Lớp:**
 - **Link repository Pha2:**
@@ -8,7 +7,7 @@
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
 
-## 4.2. Trích xuất tin nhắn đặt vé xem phim ra JSON
+## 4.2. Trích xuất tin nhắn đặt vé ra JSON
 
 **KET QUA AI**
 
@@ -18,7 +17,7 @@
 
 **Link trò chuyện:**
 
-## 4.3. Báo giá bằng Chain-of-Thought
+## 4.3. Báo giá vé bằng Chain-of-Thought
 
 **KET QUA AI**
 
